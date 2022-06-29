@@ -31,7 +31,7 @@ composer require liujijun/amazon-sp-api-php-laravel
 Once you have successfully installed the package, the updates are simple as normal Composer package updates. Just execute:
 
 ```bash
-composer update double-break/spapi-php
+composer update liujijun/amazon-sp-api-php-laravel
 ```
 
 ## Configuration
